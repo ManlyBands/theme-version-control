@@ -426,7 +426,7 @@ $z-index-announcement-bar: 10;
 $z-index-skip-to-content: 10000; // really high to be safe of app markup
 
 /*================ SVG ================*/
-$svg-select-icon: #{'//cdn.shopify.com/s/files/1/0261/7884/6792/t/23/assets/ico-select.svg?324'};
+$svg-select-icon: #{'//cdn.shopify.com/s/files/1/0261/7884/6792/t/40/assets/ico-select.svg?504'};
 
 /*================ Drawers ================*/
 $transition-drawer: all 0.45s cubic-bezier(0.29, 0.63, 0.44, 1);
@@ -541,7 +541,7 @@ $slick-opacity-not-active: 0.25;
 
 // Only called once so make sure proper file is grabbed
 @function slick-image-url($url) {
-  @return url(//cdn.shopify.com/s/files/1/0261/7884/6792/t/23/assets/ajax-loader.gif?324);
+  @return url(//cdn.shopify.com/s/files/1/0261/7884/6792/t/40/assets/ajax-loader.gif?504);
 }
 
 // Unused intentionally
